@@ -6,6 +6,9 @@ require (
 	github.com/gofiber/fiber/v2 v2.51.0
 	gorm.io/driver/sqlite v1.5.4
 	gorm.io/gorm v1.25.5
+)
+
+require (
 	github.com/andybalholm/brotli v1.0.6 // indirect
 	github.com/google/uuid v1.5.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
